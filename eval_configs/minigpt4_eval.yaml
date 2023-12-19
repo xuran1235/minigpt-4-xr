@@ -8,7 +8,7 @@ model:
   low_resource: True
   prompt_path: "prompts/alignment.txt"
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: '/path/to/pretrained/ckpt/'
+  ckpt: '/home/vipuser/zy_xr/MiniGPT-4/pretrained_checkpoint/pretrained_minigpt4.pth'
 
 
 datasets:
